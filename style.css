@@ -47,3 +47,37 @@ footer {
 .buy-button:hover, .button:hover {
   background: #29b6f6;
 }
+<style>
+body {
+  background: linear-gradient(to right, #1e3c72, #2a5298);
+  font-family: 'Segoe UI', sans-serif;
+  color: #fff;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 50px;
+  font-size: 3rem;
+  text-shadow: 2px 2px 5px #000;
+}
+
+.button {
+  display: block;
+  width: 200px;
+  margin: 30px auto;
+  padding: 15px;
+  background-color: #00bcd4;
+  border: none;
+  border-radius: 8px;
+  color: white;
+  font-size: 18px;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+.button:hover {
+  background-color: #0097a7;
+}
+</style>
