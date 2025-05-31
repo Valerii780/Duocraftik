@@ -1,0 +1,8 @@
+GameZone/
+├── index.html         (Главная)
+├── forum.html         (Форум)
+├── store.html         (Магазин)
+├── register.html      (Регистрация)
+├── login.html         (Вход)
+├── contacts.html      (Контакты)
+└── style.css          (Общий стиль)
